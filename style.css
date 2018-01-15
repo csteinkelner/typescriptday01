@@ -1,0 +1,29 @@
+.fa {
+	color: gold;
+	/*font-size: 4em;*/
+}
+header{
+	height: 150px;
+	background-color: #9DDD24;
+	border-radius: 10px;
+	text-align: center;
+	padding-top: 20px; 
+}
+header h1{
+	font-family: 'Sedgwick Ave Display', cursive;
+	font-size: 5em;
+}
+.col-md-6{
+	margin-top: 20px;
+}
+#place2{
+	height: auto;
+	min-height: 30px; 
+	width: auto;
+	border: solid 1px darkgreen;
+	border-radius: 10px;
+}
+textarea{
+	height: 100px;
+	width: 300px;
+}
